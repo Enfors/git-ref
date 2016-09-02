@@ -72,4 +72,11 @@ Possibly delete the old branch:
 
 $ git branch -d branch_name
 
+** Rebasing and when not to
 
+Rebasing applies all of one branch's commits linearly into another.
+
+*** The golden rule of rebasing
+
+Ask yourself: "Does anyone else look at this branch?"
+If the answer is "yes", then don't rebase.
