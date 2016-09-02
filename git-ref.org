@@ -82,3 +82,20 @@ Rebasing applies all of one branch's commits linearly into another.
 
 Ask yourself: "Does anyone else look at this branch?"
 If the answer is "yes", then don't rebase.
+
+* Tags
+
+There are two types of tags: lightweight and annotated (recommended).
+
+** Lightweight tags
+
+- Like an immutable branch
+- Pointer to a specific commit
+
+** Annotated tags
+
+- Also a pointer to a specific commit
+- Full objects
+- SHA1, tagger name, email, date, message
+- Can be signed and verified (GPG)
+- Recommended method
