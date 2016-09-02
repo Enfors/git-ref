@@ -60,6 +60,8 @@ $ git checkout branch_name
 
 ** Merging branch with master
 
+When you merge, you merge ANOTHER branch INTO your current branch.
+
 First, switch back to master branch:
 
 $ git checkout master
