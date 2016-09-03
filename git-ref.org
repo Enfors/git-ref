@@ -1,3 +1,5 @@
+* NOTE - THIS REPO HAS BEEN SUPERCEEDED BY THE REF REPO. GO THERE INSTEAD.
+
 * Basics
 
 ** Create repository
